@@ -88,6 +88,7 @@ Example repositories for frequently-asked questions.
 These are community contributed examples. Let us know if you have an example to
 contribute and we'll send you some swag in return for your efforts!
 
+- [loopback-angular-admin](https://github.com/beeman/loopback-angular-admin)
 - [loopback-examples-ios](https://github.com/strongloop-community/loopback-examples-ios)
 
 ##Deprecated examples
