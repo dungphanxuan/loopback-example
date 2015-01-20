@@ -101,6 +101,8 @@ These examples have not been updated for LoopBack 2.x.
 These are either outdated or replaced with better examples.
 
 - [loopback-example-angular-starter](https://github.com/strongloop/loopback-example-angular-starter) replaced with [loopback-example-angular](http://github.com/strongloop/loopback-example-angular)
+- [loopback-example-customAPI](https://github.com/strongloop/loopback-example-customAPI) replaced with [loopback-getting-started](http://github.com/strongloop/loopback-getting-started)
+- [loopback-example-datasourceAPI](https://github.com/strongloop/loopback-example-datasourceAPI) replaced with [loopback-getting-started](http://github.com/strongloop/getting-started)
 - [loopback-example-database](https://github.com/strongloop/loopback-example-database) replaced with 5 separate repos:
     - [loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)
     - [loopback-example-mssql](https://github.com/strongloop/loopback-example-mssql)
