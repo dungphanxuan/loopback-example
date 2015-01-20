@@ -56,15 +56,20 @@ Teaches the basics on remote methods, remote hooks, model hooks, boot scripts an
 These examples can be done in any order as they are self-contained and specific
 to a particular topic.
 
+- [loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-angular-starter)
 - [loopback-example-angular](https://github.com/strongloop/loopback-example-angular)
 - [loopback-example-app](https://github.com/strongloop/loopback-example-app)
+- [loopback-example-component](https://github.com/strongloop/loopback-example-component) - WIP
 - [loopback-example-full-stack](https://github.com/strongloop/loopback-example-full-stack)
 - [loopback-example-passport](https://github.com/strongloop/loopback-example-passport)
+- [loopback-example-proxy](https://github.com/strongloop/loopback-example-proxy)
+- [loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes) - WIP
 - [loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)
 - [Creating a LoopBack iOS app: part one](http://docs.strongloop.com/display/LB/Creating+a+LoopBack+iOS+app:+part+one)
 - [Creating a LoopBack iOS app: part two](http://docs.strongloop.com/display/LB/Creating+a+LoopBack+iOS+app:+part+two)
 - [Push notifications](http://docs.strongloop.com/display/LB/Tutorial:+Push+notifications)
 - [Remote connector](https://github.com/strongloop/loopback-example-remote) - WIP
+
 
 ##FAQ examples
 
@@ -101,6 +106,7 @@ These examples have not been updated for LoopBack 2.x.
 These are either outdated or replaced with better examples.
 
 - [loopback-example-angular-starter](https://github.com/strongloop/loopback-example-angular-starter) replaced with [loopback-example-angular](http://github.com/strongloop/loopback-example-angular)
+- [loopback-example-coffee-shop](https://github.com/strongloop/loopback-example-coffee-shop) replaced with [loopback-getting-started-intermediate](http://github.com/strongloop/loopback-getting-started-intermediate)
 - [loopback-example-customAPI](https://github.com/strongloop/loopback-example-customAPI) replaced with [loopback-getting-started](http://github.com/strongloop/loopback-getting-started)
 - [loopback-example-datasourceAPI](https://github.com/strongloop/loopback-example-datasourceAPI) replaced with [loopback-getting-started](http://github.com/strongloop/getting-started)
 - [loopback-example-database](https://github.com/strongloop/loopback-example-database) replaced with 5 separate repos:
