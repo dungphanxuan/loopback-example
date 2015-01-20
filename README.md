@@ -56,6 +56,12 @@ Teaches the basics on remote methods, remote hooks, model hooks, boot scripts an
 These examples can be done in any order as they are self-contained and specific
 to a particular topic.
 
+- [loopback-component-push](https://github.com/strongloop/loopback-component-push)
+    - 2.0 example available in the `examples` dir, upgrading project in a future
+      update
+- [loopback-component-storage](https://github.com/strongloop/loopback-component-storage)
+    - 2.0 example available in the `examples` dir, upgrading project in a future
+      update
 - [loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-angular-starter)
 - [loopback-example-angular](https://github.com/strongloop/loopback-example-angular)
 - [loopback-example-app](https://github.com/strongloop/loopback-example-app)
@@ -97,8 +103,6 @@ contribute and we'll send you some swag in return for your efforts!
 
 These examples have not been updated for LoopBack 2.x.
 
-- [loopback-component-push](https://github.com/strongloop/loopback-component-push)
-- [loopback-component-storage](https://github.com/strongloop/loopback-component-storage)
 - [loopback-component-example-office-supplies](https://github.com/strongloop/loopback-example-office-supplies)
 - [sample-applications](https://github.com/strongloop-community/sample-applications)
 
