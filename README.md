@@ -49,7 +49,7 @@ Teaches the basics on remote methods, remote hooks, model hooks, boot scripts an
 
 ###Step four - access control
 
-- [loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control) - WIP
+- [loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)
 
 ##Topic-specific examples
 
