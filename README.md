@@ -62,7 +62,7 @@ to a particular topic.
 - [loopback-component-storage](https://github.com/strongloop/loopback-component-storage)
     - 2.0 example available in the `examples` dir, upgrading project in a future
       update
-- [loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-angular-starter)
+- [loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)
 - [loopback-example-angular](https://github.com/strongloop/loopback-example-angular)
 - [loopback-example-app](https://github.com/strongloop/loopback-example-app)
 - [loopback-example-component](https://github.com/strongloop/loopback-example-component) - WIP
@@ -96,6 +96,7 @@ contribute and we'll send you some swag in return for your efforts!
 
 - [loopback-angular-admin](https://github.com/beeman/loopback-angular-admin)
 - [loopback-examples-ios](https://github.com/strongloop-community/loopback-examples-ios)
+- [loopback-example-user-organization](https://github.com/strongloop-community/loopback-example-user-organization)
 
 ##Deprecated examples
 
