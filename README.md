@@ -65,6 +65,7 @@ to a particular topic.
 - [loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)
 - [loopback-example-angular](https://github.com/strongloop/loopback-example-angular)
 - [loopback-example-app](https://github.com/strongloop/loopback-example-app)
+- [loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)
 - [loopback-example-component](https://github.com/strongloop/loopback-example-component) - WIP
 - [loopback-example-full-stack](https://github.com/strongloop/loopback-example-full-stack)
 - [loopback-example-passport](https://github.com/strongloop/loopback-example-passport)
