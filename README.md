@@ -1,4 +1,4 @@
-StrongLoop provides a number of example applications that illustrate various key LoopBack features.  In some cases, they have accompanying step-by-step instructions (tutorials).  The applications fall into several categories:
+These example applications illustrate various key LoopBack features.  In some cases, they have accompanying step-by-step instructions (tutorials).  The applications fall into several categories:
 
 - [Getting started](#getting-started)
 - [Tutorial series](#tutorial-series)
@@ -24,7 +24,7 @@ in the README.
 Complete these in the order listed below.  When a step contains multiple repositories, you need only follow 
 one of them before going to the next step; you don't have to finish all of them. For example, follow  `loopback-example-mysql` in step one, then go to step two.
 
-###Step one - the basics
+###The basics
 
 Teaches the basics on models, connectors, datasources, automigration and
 discovery.
@@ -35,63 +35,63 @@ discovery.
 - [loopback-example-postgresql](https://github.com/strongloop/loopback-example-postgresql)
 - [loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)
 
-###Step two - relations and filters
+###Relations and filters
 
-Teaches the basics on model relations and basic filtering via REST.
+Teaches the basics of model relations and basic filtering via REST.
 
 - [loopback-example-model-relations](https://github.com/strongloop/loopback-example-model-relations)
 
-###Step three - adding application logic
+###Adding application logic
 
-Teaches the basics on remote methods, remote hooks, model hooks, boot scripts and middleware.
+Teaches the basics of remote methods, remote hooks, model hooks, boot scripts, and middleware.
 
 - [loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)
 
-###Step four - access control
+###Access control
 
 - [loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)
 
 ##Topic-specific examples
 
-These examples can be done in any order as they are self-contained and specific
+You can follow these examples in any order since they are self-contained and specific
 to a particular topic.
 
 - [loopback-component-push](https://github.com/strongloop/loopback-component-push)
-    - 2.0 example available in the `examples` dir, upgrading project in a future
-      update
+    - 2.0 example available in the `examples` dir - upgrading project in the future
 - [loopback-component-storage](https://github.com/strongloop/loopback-component-storage)
-    - 2.0 example available in the `examples` dir, upgrading project in a future
-      update
+    - 2.0 example available in the `examples` dir - upgrading project in the future
 - [loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)
 - [loopback-example-angular](https://github.com/strongloop/loopback-example-angular)
 - [loopback-example-app](https://github.com/strongloop/loopback-example-app)
 - [loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)
-- [loopback-example-component](https://github.com/strongloop/loopback-example-component) - WIP
+- [loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)
 - [loopback-example-full-stack](https://github.com/strongloop/loopback-example-full-stack)
 - [loopback-example-passport](https://github.com/strongloop/loopback-example-passport)
+- [loopback-example-component](https://github.com/strongloop/loopback-example-component) - WIP
 - [loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes) - WIP
-- [loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)
+- [Remote connector](https://github.com/strongloop/loopback-example-remote) - WIP
+
+**Examples on docs.strongloop.com**:
+
 - [Creating a LoopBack iOS app: part one](http://docs.strongloop.com/display/LB/Creating+a+LoopBack+iOS+app:+part+one)
 - [Creating a LoopBack iOS app: part two](http://docs.strongloop.com/display/LB/Creating+a+LoopBack+iOS+app:+part+two)
 - [Push notifications](http://docs.strongloop.com/display/LB/Tutorial:+Push+notifications)
-- [Remote connector](https://github.com/strongloop/loopback-example-remote) - WIP
-
 
 ##FAQ examples
 
 Example repositories for frequently-asked questions.
 
-- [loopback-faq-build-automation](https://github.com/strongloop/loopback-faq-build-automation) - WIP
 - [loopback-faq-email](https://github.com/strongloop/loopback-faq-email)
 - [loopback-faq-middleware](https://github.com/strongloop/loopback-faq-middleware)
 - [loopback-faq-model-hooks](https://github.com/strongloop/loopback-faq-model-hooks)
-- [loopback-faq-model-relations](https://github.com/strongloop/loopback-faq-model-relations) - WIP
 - [loopback-faq-rest-connector](https://github.com/strongloop/loopback-faq-rest-connector)
 - [loopback-faq-user-management](https://github.com/strongloop/loopback-faq-user-management)
+- [loopback-faq-model-relations](https://github.com/strongloop/loopback-faq-model-relations) - WIP
+- [loopback-faq-build-automation](https://github.com/strongloop/loopback-faq-build-automation) - WIP
 
 ##Community examples
 
-These are community contributed examples. Let us know if you have an example to
+These are examples contributed by the LoopBack community. Let us know if you have an example to
 contribute and we'll send you some swag in return for your efforts!
 
 - [loopback-angular-admin](https://github.com/beeman/loopback-angular-admin)
@@ -107,7 +107,7 @@ These examples have not been updated for LoopBack 2.x.
 - [loopback-component-example-office-supplies](https://github.com/strongloop/loopback-example-office-supplies)
 - [sample-applications](https://github.com/strongloop-community/sample-applications)
 - [loopback-example-proxy](https://github.com/strongloop/loopback-example-proxy)
-- 
+
 ### Other deprecated examples
 
 These are either outdated or replaced with better examples.
