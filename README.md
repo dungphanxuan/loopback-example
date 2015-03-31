@@ -69,7 +69,6 @@ to a particular topic.
 - [loopback-example-component](https://github.com/strongloop/loopback-example-component) - WIP
 - [loopback-example-full-stack](https://github.com/strongloop/loopback-example-full-stack)
 - [loopback-example-passport](https://github.com/strongloop/loopback-example-passport)
-- [loopback-example-proxy](https://github.com/strongloop/loopback-example-proxy)
 - [loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes) - WIP
 - [loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)
 - [Creating a LoopBack iOS app: part one](http://docs.strongloop.com/display/LB/Creating+a+LoopBack+iOS+app:+part+one)
@@ -107,7 +106,8 @@ These examples have not been updated for LoopBack 2.x.
 
 - [loopback-component-example-office-supplies](https://github.com/strongloop/loopback-example-office-supplies)
 - [sample-applications](https://github.com/strongloop-community/sample-applications)
-
+- [loopback-example-proxy](https://github.com/strongloop/loopback-example-proxy)
+- 
 ### Other deprecated examples
 
 These are either outdated or replaced with better examples.
