@@ -65,7 +65,7 @@ to a particular topic.
 - [loopback-example-app](https://github.com/strongloop/loopback-example-app)
 - [loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)
 - [loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)
-- [loopback-example-full-stack](https://github.com/strongloop/loopback-example-full-stack)
+- [loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)
 - [loopback-example-passport](https://github.com/strongloop/loopback-example-passport)
 - [loopback-example-component](https://github.com/strongloop/loopback-example-component) - WIP
 - [loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes) - WIP
@@ -115,6 +115,7 @@ These are either outdated or replaced with better examples.
 - [loopback-example-angular-starter](https://github.com/strongloop/loopback-example-angular-starter) replaced with [loopback-example-angular](http://github.com/strongloop/loopback-example-angular)
 - [loopback-example-coffee-shop](https://github.com/strongloop/loopback-example-coffee-shop) replaced with [loopback-getting-started-intermediate](http://github.com/strongloop/loopback-getting-started-intermediate)
 - [loopback-example-customAPI](https://github.com/strongloop/loopback-example-customAPI) replaced with [loopback-getting-started](http://github.com/strongloop/loopback-getting-started)
+- [loopback-example-full-stack](https://github.com/strongloop/loopback-example-full-stack) renamed to [loobpack-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)
 - [loopback-example-datasourceAPI](https://github.com/strongloop/loopback-example-datasourceAPI) replaced with [loopback-getting-started](http://github.com/strongloop/getting-started)
 - [loopback-example-database](https://github.com/strongloop/loopback-example-database) replaced with 5 separate repos:
     - [loopback-example-mongodb](https://github.com/strongloop/loopback-example-mongodb)
