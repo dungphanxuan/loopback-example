@@ -64,11 +64,12 @@ to a particular topic.
 - [loopback-example-angular](https://github.com/strongloop/loopback-example-angular)
 - [loopback-example-app](https://github.com/strongloop/loopback-example-app)
 - [loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)
-- [loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)
+- [loopback-example-component](https://github.com/strongloop/loopback-example-component) - WIP
+- [loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub) - WIP
 - [loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)
 - [loopback-example-passport](https://github.com/strongloop/loopback-example-passport)
-- [loopback-example-component](https://github.com/strongloop/loopback-example-component) - WIP
 - [loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes) - WIP
+- [loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)
 - [Remote connector](https://github.com/strongloop/loopback-example-remote) - WIP
 
 **Examples on docs.strongloop.com**:
