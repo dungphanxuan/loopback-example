@@ -56,21 +56,21 @@ Teaches the basics of remote methods, remote hooks, model hooks, boot scripts, a
 You can follow these examples in any order since they are self-contained and specific
 to a particular topic.
 
-|WIP|Name                                                                                        |Description                                          |
-|:-:|:-------------------------------------------------------------------------------------------|:----------------------------------------------------|
-|   |[loopback-component-push](https://github.com/strongloop/loopback-component-push)            |LoopBack 2.x examples available in the `examples` dir|
-|   |[loopback-component-storage](https://github.com/strongloop/loopback-component-storage)      |LoopBack 2.0 examples available in the `examples` dir|
-|   |[loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)|                                                     |
-|   |[loopback-example-angular](https://github.com/strongloop/loopback-example-angular)          |How to use AngularJS with LoopBack                   |
-|   |[loopback-example-app](https://github.com/strongloop/loopback-example-app)                  |A full stack LoopBack application (iCars)            |
-|   |[loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)|How to use the LoopBack boot script generator        |
-|   |[loopback-example-component](https://github.com/strongloop/loopback-example-component)      |                                                     |
-|   |[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub)            |                                                     |
-|   |[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback                           |
-|   |[loopback-example-passport](https://github.com/strongloop/loopback-example-passport)        |PassportJS with Loopback                             |
-| ✔ |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)          |                                                     |
-| ✔ |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote)                   |How to use the LoopBack remote connector             |
-|   |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)                  |SSL with LoopBack                                    |
+|WIP|Name                                                                                        |Description                                                                           |
+|:-:|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
+|   |[loopback-component-push](https://github.com/strongloop/loopback-component-push)            |LoopBack 2.x examples available in the `examples` dir                                 |
+|   |[loopback-component-storage](https://github.com/strongloop/loopback-component-storage)      |LoopBack 2.0 examples available in the `examples` dir                                 |
+|   |[loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-apiclientapp)|                                                                                      |
+|   |[loopback-example-angular](https://github.com/strongloop/loopback-example-angular)          |A simple todo list using AngularJS on the client side and LoopBack on the server side.|
+|   |[loopback-example-app](https://github.com/strongloop/loopback-example-app)                  |A full stack LoopBack application (iCars)                                             |
+|   |[loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)|How to use the LoopBack boot script generator                                         |
+|   |[loopback-example-component](https://github.com/strongloop/loopback-example-component)      |                                                                                      |
+|   |[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub)            |                                                                                      |
+|   |[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback                                                            |
+|   |[loopback-example-passport](https://github.com/strongloop/loopback-example-passport)        |PassportJS with Loopback                                                              |
+| ✔ |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)          |                                                                                      |
+| ✔ |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote)            |How to use the LoopBack remote connector                                              |
+|   |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)                  |SSL with LoopBack                                                                     |
 
 **Examples on docs.strongloop.com**:
 
