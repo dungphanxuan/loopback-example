@@ -70,7 +70,7 @@ to a particular topic.
 |   |[loopback-example-passport](https://github.com/strongloop/loopback-example-passport)        |PassportJS with Loopback                             |
 | x |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)          |                                                     |
 |   |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)                  |SSL with LoopBack                                    |
-| x |[Remote connector](https://github.com/strongloop/loopback-example-remote)                   |How to use the LoopBack remote connector             |
+| x |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote)                   |How to use the LoopBack remote connector             |
 
 **Examples on docs.strongloop.com**:
 
