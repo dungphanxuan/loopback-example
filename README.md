@@ -68,8 +68,8 @@ to a particular topic.
 |   |[loopback-example-pubsub](https://github.com/strongloop/loopback-example-pubsub)            |                                                     |
 |   |[loopback-example-offline-sync](https://github.com/strongloop/loopback-example-offline-sync)|Offline sync with Loopback                           |
 |   |[loopback-example-passport](https://github.com/strongloop/loopback-example-passport)        |PassportJS with Loopback                             |
-| x |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)          |                                                     |
-| x |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote)                   |How to use the LoopBack remote connector             |
+| ✔ |[loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)          |                                                     |
+| ✔ |[loopback-example-remote](https://github.com/strongloop/loopback-example-remote)                   |How to use the LoopBack remote connector             |
 |   |[loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)                  |SSL with LoopBack                                    |
 
 **Examples on docs.strongloop.com**:
