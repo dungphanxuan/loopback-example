@@ -39,7 +39,7 @@ discovery.
 
 Teaches the basics of model relations and basic filtering via REST.
 
-- [loopback-example-model-relations](https://github.com/strongloop/loopback-example-model-relations)
+- [loopback-example-relations](https://github.com/strongloop/loopback-example-relations)
 
 ###Adding application logic
 
@@ -126,4 +126,5 @@ These are either outdated or replaced with better examples.
     - [loopback-example-oracle](https://github.com/strongloop/loopback-example-oracle)
 - [loopback-example-extendedAPI](https://github.com/strongloop/loopback-example-extendedAPI) replaced with [loopback-getting-started](http://github.com/strongloop/loopback-getting-started)
 - [loopback-example-relations-basic](https://github.com/strongloop/loopback-example-relations-basic) replaced with [loopback-example-model-relations](http://github.com/strongloop/loopback-example-model-relations)
+- [loopback-example-model-relations](https://github.com/strongloop/loopback-example-model-relations) replaced with [loopback-example-relations](http://github.com/strongloop/loopback-example-relations)
 - [loopback-example-mySimpleAPI](https://github.com/strongloop/loopback-example-mySimpleAPI) replaced with [loopback-getting-started](http://github.com/strongloop/loopback-getting-started)
